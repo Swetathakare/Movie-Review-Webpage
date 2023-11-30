@@ -1,6 +1,6 @@
 # Movie-Review-Webpage
 
-I have made basic responsive webpage to review a movie ( Dangal ) using html amd css.
+I have made basic responsive webpage to review a movie ( Dangal ) using html and css.
 
 Link :- https://heartfelt-pie-e87e62.netlify.app/
 
